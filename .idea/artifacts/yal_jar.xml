@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact name="yal:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/yal_jar</output-path>
+    <root id="root">
+      <element id="archive" name="yal.jar">
+        <element id="module-output" name="yal" />
+      </element>
+      <element id="library" level="project" name="jflex-1.6.1" />
+      <element id="library" level="project" name="java-cup-11a" />
+    </root>
+  </artifact>
+</component>
